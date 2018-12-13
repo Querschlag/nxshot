@@ -1,0 +1,24 @@
+# Project
+
+# Compilation
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm
+.idea/
+
+# Git Time Metric
+/.gtm/
